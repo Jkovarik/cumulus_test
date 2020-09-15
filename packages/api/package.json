@@ -88,7 +88,7 @@
     "lodash.uniqby": "^4.7.0",
     "moment": "^2.22.1",
     "morgan": "^1.9.1",
-    "node-forge": "^0.7.1",
+    "node-forge": "^0.10.0",
     "p-limit": "^1.2.0",
     "p-map": "^1.2.0",
     "p-retry": "^2.0.0",
